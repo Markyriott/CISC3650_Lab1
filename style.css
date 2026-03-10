@@ -1,0 +1,8 @@
+.book-cover {
+    width:90px;
+    height: 130px;
+    object-fit: cover;
+}
+.book-card{
+    width:420px;
+}
